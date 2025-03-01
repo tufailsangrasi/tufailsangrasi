@@ -1,4 +1,4 @@
-# 💫 Hi, I'm Tufail:
+# 💫 Hello, My name is Tufail Ahmed:
 🔭 I’m currently working on <b>improving my skills in DSA.</b><br>👯 I’m looking to collaborate on <b>coding challenges or small projects that utilize DSA concepts.</b><br>🤝 I’m looking for help with <b>understanding advanced algorithms and their implementations in Java.</b><br>🌱 I’m currently learning more about <b>MySQL and how to optimize database queries.</b><br>💬 Ask me about basic <b>DSA concepts or my favorite coding challenges.</b>
 
 
