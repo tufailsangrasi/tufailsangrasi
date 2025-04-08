@@ -1,5 +1,5 @@
 # 💫 Hello, My name is Tufail Ahmed:
-🔭 I’m currently working on <b>improving my skills in DSA.</b><br>👯 I’m looking to collaborate on <b>coding challenges or small projects that utilize DSA concepts.</b><br>🤝 I’m looking for help with <b>understanding advanced algorithms and their implementations in Java.</b><br>🌱 I’m currently learning more about <b>MySQL and how to optimize database queries.</b><br>💬 Ask me about basic <b>DSA concepts or my favorite coding challenges.</b>
+🔭 I’m currently working on <b>Generative AI</b><br>👯 I’m looking to collaborate on <b></b><br>🤝 I’m looking for help with <b>understanding advanced algorithms and their implementations in Java.</b><br>🌱 I’m currently learning more about <b>Gen AI and Agentic AI</b><br>💬 Ask me about basic <b>concept in NLP</b>
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
