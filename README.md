@@ -2,10 +2,10 @@
 🔭 I’m currently working on Generative AI and Agentic AI<br>👯 I’m looking to collaborate on challenging Data Science problems<br>🌱 I’m currently learning more about <b>Generative AI and Agentic AI</b><br>I’m looking for new challenges and opportunities to expand my knowledge and experience.</b>
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tufail-ahmed71])
-[![Kaggle](https://img.shields.io/badge/Kaggle-%23020AFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](your-kaggle-url)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](your-leetcode-url)
-[![Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=Twitter&logoColor=white)](your-twitter-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tufail-ahmed71)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-%23020AFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/tufailahmed20)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-username/)  
+[![Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/your-handle)
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) 
