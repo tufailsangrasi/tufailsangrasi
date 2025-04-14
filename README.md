@@ -6,7 +6,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-%23020AFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/tufailahmed20)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-username/)
 [![Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/your-handle)
-# 💻 Tech Stack:
+# 💻 Languages and Tools:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
